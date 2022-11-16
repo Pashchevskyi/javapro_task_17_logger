@@ -6,8 +6,8 @@ This Maven library might be useful for registration of events in your program, d
 
 To run this library you must have at least Java 8 and Maven compiler plugin 8 on your local machine.
 
-To install this library run the following command.
+To install this library go to directory with pom.xml file and run the following command.
 
-    mvn clean install logger
+    mvn clean install
 
 Enjoy.
