@@ -8,6 +8,6 @@ To run this library you must have at least Java 8 and Maven compiler plugin 8 on
 
 To install this library run the following command.
 
-    mvn clean install matrix
+    mvn clean install logger
 
 Enjoy.
